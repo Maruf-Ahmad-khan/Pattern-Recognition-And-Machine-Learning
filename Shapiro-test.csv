@@ -1,0 +1,8 @@
+,Shapiro-Wilk Statistic,p-value,normal_distribution
+Hours_Studied,0.997462451,4.34E-09,FALSE
+Attendance,0.954804838,4.24E-41,FALSE
+Sleep_Hours,0.952848315,9.32E-42,FALSE
+Previous_Scores,0.955432713,6.97E-41,FALSE
+Tutoring_Sessions,0.890152693,0,FALSE
+Physical_Activity,0.921320558,0,FALSE
+Exam_Score,0.902925611,0,FALSE

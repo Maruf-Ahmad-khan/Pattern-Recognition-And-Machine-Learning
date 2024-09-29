@@ -1,0 +1,8 @@
+,JB Statistic,p-value,normal_distribution
+Hours_Studied,0.278718077,0.869915639,TRUE
+Attendance,392.9414638,0,FALSE
+Sleep_Hours,70.61449531,4.44E-16,FALSE
+Previous_Scores,390.568559,0,FALSE
+Tutoring_Sessions,845.6204103,0,FALSE
+Physical_Activity,2.0838235,0.352779611,TRUE
+Exam_Score,33714.38291,0,FALSE
